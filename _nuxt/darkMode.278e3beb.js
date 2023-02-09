@@ -1,0 +1,1 @@
+import{N as a,s as o}from"./entry.ed983199.js";const n=e=>a().strapi.url+e,i=()=>{let e=o(!0);return typeof window>"u"||(e.value=!window||window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches,window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change",r=>{e.value=r.matches})),e};export{i as a,n as u};
