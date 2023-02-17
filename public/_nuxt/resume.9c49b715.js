@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper.c27b6911.js";import{a as t,o as s,e as o}from"./entry.a9d6d9ba.js";const c={},a={class:"flex flex-col gap-y-4 items-left justify-center"},r=o("h1",{class:"text-black dark:text-white text-4xl sm:text-5xl font-semibold"},"Resume Page",-1),n=[r];function _(l,f){return s(),t("div",a,n)}const x=e(c,[["render",_]]);export{x as default};
