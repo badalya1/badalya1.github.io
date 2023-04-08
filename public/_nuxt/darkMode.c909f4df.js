@@ -1,0 +1,1 @@
+import{q as a}from"./entry.f467a9d6.js";const d=()=>{let e=a(!0);return typeof window>"u"||(e.value=!window||window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches,window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change",r=>{e.value=r.matches})),e};export{d as u};
